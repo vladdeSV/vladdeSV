@@ -1,0 +1,55 @@
+<!-- shamelessly stolen from https://github.com/sindresorhus/css-in-readme-like-wat -->
+<svg fill="none" viewBox="0 0 600 150" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>                
+                .container {
+                    font-family:
+                        'Segoe UI',
+                        Roboto,
+                        Helvetica,
+                        Arial,
+                        sans-serif;
+
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+
+                    animation: gradient-background 20s ease infinite;
+
+                    margin: 0;
+                    width: 100%;
+                    height: 150px;
+                    text-align: center;
+                    color: white;
+                    border-radius: 1rem;
+                    background: linear-gradient(-45deg, #E0CB2F, #2FE0AD, #3E2FE0);
+                    background-size: 600% 600%;
+                }
+
+                h1 {
+                    animation: rotate ease-in-out 3s infinite alternate;
+
+                    font-size: 50px;
+                    line-height: 1.3;
+                    letter-spacing: 3px;
+                }
+
+                @keyframes rotate {
+                    0%   { transform: rotate(2deg);  }
+                    100% { transform: rotate(-2deg); }
+                }
+
+                @keyframes gradient-background {
+                    0%   { background-position: 0% 50%;   }
+                    50%  { background-position: 100% 50%; }
+                    100% { background-position: 0% 50%;   }
+                }
+            </style>
+            <div class="container">
+                <h1>☕ 🔜 📜🖥️</h1>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
