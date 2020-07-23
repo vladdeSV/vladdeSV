@@ -12,4 +12,4 @@
 <br>
 <br>
 
-just like you, i do open source things. at work i do backend PHP and iOS (objc).
+just like you, i do open source things. at work i do backend PHP (7, OOP) and iOS (objc).
