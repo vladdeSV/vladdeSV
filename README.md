@@ -1,7 +1,13 @@
 <!-- this svg+css thing is pretty much stolen from https://github.com/sindresorhus/css-in-readme-like-wat -->
 <br>
 <div align="center">
-  <a href=""><img src="/vladdeSV/vladdeSV/raw/master/header.svg" width="600" height="150"></a>
+  <a href="">
+    <!-- 
+      this line references a file in my repo relative the my profile page.
+      this means this image will not display correctly in the repo itself.
+    -->
+    <img src="/vladdeSV/vladdeSV/raw/master/header.svg" width="600" height="150" alt="(image does not display correctly when viewing this repo directly)">
+  </a>
 </div>
 <br>
 <br>
