@@ -1,7 +1,14 @@
-### Hi there 👋
+<!-- this svg+css thing is pretty much stolen from https://github.com/sindresorhus/css-in-readme-like-wat -->
+<br>
+<div align="center">
+  <a href=""><img src="/vladdeSV/vladdeSV/raw/master/header.svg" width="600" height="150"></a>
+</div>
+<br>
+<br>
 
-<!--
-**vladdeSV/vladdeSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just like you, i do open source things. at work i do backend PHP and iOS (objc).
+
+<!-- **vladdeSV/vladdeSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
