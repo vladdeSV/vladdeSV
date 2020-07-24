@@ -15,7 +15,4 @@
 
 just like you, i do open source things.
 
-at work i do
-- backend PHP (7, OOP)
-- some frontend
-- iOS (objc).
+at work i do backend PHP (7, OOP), some frontend, and iOS (objc).
