@@ -13,6 +13,9 @@
 <br>
 <!-- end heading -->
 
+![twitter](https://img.shields.io/badge/-@vladdeSV-1da1f2?logo=twitter&logoColor=fff&link=https://twitter.com/vladdeSV)
+![keybase](https://img.shields.io/badge/keybase-vladdeSV-33a0ff?logo=keybase&logoColor=white)
+
 just like you, i do open source things.
 
 at work i do backend PHP (7, OOP), some frontend, and iOS (objc).
