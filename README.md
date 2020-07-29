@@ -8,13 +8,16 @@
     -->
     <img src="/vladdeSV/vladdeSV/raw/master/resource/header.svg" alt="(image does not display correctly when viewing this repo directly)">
   </a>
+  
+  ![twitter](https://img.shields.io/badge/-@vladdeSV-1da1f2?logo=twitter&logoColor=fff&link=https://twitter.com/vladdeSV)
+  ![keybase](https://img.shields.io/badge/keybase-vladdeSV-33a0ff?logo=keybase&logoColor=white)
+  
 </div>
 <br>
 <br>
 <!-- end heading -->
 
-![twitter](https://img.shields.io/badge/-@vladdeSV-1da1f2?logo=twitter&logoColor=fff&link=https://twitter.com/vladdeSV)
-![keybase](https://img.shields.io/badge/keybase-vladdeSV-33a0ff?logo=keybase&logoColor=white)
+
 
 just like you, i do open source things.
 
