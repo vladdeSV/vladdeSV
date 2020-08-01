@@ -10,9 +10,10 @@
   </a>
 
   <p>
-  
-[![twitter](https://img.shields.io/badge/-@vladdeSV-1da1f2?logo=twitter&logoColor=fff)](https://twitter.com/vladdeSV)
-[![keybase](https://img.shields.io/badge/keybase-vladdeSV-33a0ff?logo=keybase&logoColor=white)](https://keybase.io/vladdeSV)
+
+[![github](https://img.shields.io/badge/vladdeSV-24292e?logo=github&logoColor=white)](https://github.com/vladdeSV)
+[![twitter](https://img.shields.io/badge/@vladdeSV-1da1f2?logo=twitter&logoColor=fff)](https://twitter.com/vladdeSV)
+[![keybase](https://img.shields.io/badge/vladdeSV-ff6f21?logo=keybase&logoColor=white)](https://keybase.io/vladdeSV)
 
   </p>
     
