@@ -6,7 +6,7 @@
       this line references a file in my repo relative the my profile page.
       this means this image will not display correctly in the repo itself.
     -->
-    <img src="/vladdeSV/vladdeSV/raw/master/resource/header.svg" alt="(image does not display correctly when viewing this repo directly)">
+    <img src="https://raw.githubusercontent.com/vladdeSV/vladdeSV/master/resource/header.svg" alt="logo, coffee turned into code">
   </a>
 
   <p>
