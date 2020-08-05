@@ -1,5 +1,5 @@
 <!-- shamelessly stolen from https://github.com/sindresorhus/css-in-readme-like-wat -->
-<svg fill="none" viewBox="0 0 600 150" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 326 100" width="326" height="100" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>                
@@ -20,10 +20,10 @@
 
                     margin: 0;
                     width: 100%;
-                    height: 150px;
+                    height: 100px;
                     text-align: center;
                     color: white;
-                    border-radius: 1rem;
+                    border-radius: 3px;
                     background: linear-gradient(-45deg, #E0CB2F, #2FE0AD, #3E2FE0);
                     background-size: 600% 600%;
                 }
@@ -31,7 +31,7 @@
                 h1 {
                     animation: rotate ease-in-out 3s infinite alternate;
 
-                    font-size: 50px;
+                    font-size: 40px;
                     line-height: 1.3;
                     letter-spacing: 3px;
                 }
