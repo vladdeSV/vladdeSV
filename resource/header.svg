@@ -1,8 +1,8 @@
 <!-- shamelessly stolen from https://github.com/sindresorhus/css-in-readme-like-wat -->
-<svg fill="none" viewBox="0 0 326 100" width="326" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 326 150" width="326" height="150" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>                
+            <style>
                 .container {
                     font-family:
                         'Segoe UI',
@@ -20,35 +20,63 @@
 
                     margin: 0;
                     width: 100%;
-                    height: 100px;
+                    height: 150px;
                     text-align: center;
                     color: white;
                     border-radius: 3px;
-                    background: linear-gradient(-45deg, #E0CB2F, #2FE0AD, #3E2FE0);
-                    background-size: 600% 600%;
+                    border: 5px dashed rgb(61, 178, 255);
+                    box-sizing: border-box;
                 }
 
                 h1 {
-                    animation: rotate ease-in-out 3s infinite alternate;
+                    animation: rotate ease-in-out 6s 1;
+                    animation-fill-mode: forwards;
 
                     font-size: 40px;
                     line-height: 1.3;
                     letter-spacing: 3px;
                 }
 
-                @keyframes rotate {
-                    0%   { transform: rotate(2deg);  }
-                    100% { transform: rotate(-2deg); }
+                #coffee {
+                    display: inline-block;
+                    animation: coffee-schwoop ease-in-out 6s;
+                    animation-fill-mode: forwards;
+                    animation-delay: 6s;
                 }
 
-                @keyframes gradient-background {
-                    0%   { background-position: 0% 50%;   }
-                    50%  { background-position: 100% 50%; }
-                    100% { background-position: 0% 50%;   }
+                #hand {
+                    display: inline-block;
+                    transform: scale(-1, 1);
+                    animation: coffee-grab ease-in-out 12s;
+                    position: absolute;
+                    top: 60px;
+                    left: -200px;
+                    font-size: 40px;
                 }
+
+                @keyframes rotate {
+                    0% { transform: rotate(0.02deg);  }
+                    25% { transform: rotate(-2deg); }
+                    50% { transform: rotate(2deg);  }
+                    75% { transform: rotate(-2deg); }
+                    100% { transform: rotate(0deg);  }
+                }
+
+                @keyframes coffee-schwoop {
+                    0% { transform: translateX(0); }
+                    100% { transform: translateX(-300px); }
+                }
+
+                @keyframes coffee-grab {
+                    0% {left: -200px}
+                    50% {left: 30px}
+                    100% {left: -230px}
+                }
+
             </style>
             <div class="container">
-                <h1>☕ 🔜 📜🖥️</h1>
+                <span id="hand">🤏</span>
+                <h1><span id="coffee">☕</span> 🔜 📜🖥️</h1>
             </div>
         </div>
     </foreignObject>
