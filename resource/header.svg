@@ -69,7 +69,7 @@
 
                 @keyframes coffee-grab {
                     0% {left: -200px}
-                    50% {left: 30px}
+                    50% {left: 10%}
                     100% {left: -230px}
                 }
 
