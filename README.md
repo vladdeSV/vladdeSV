@@ -22,7 +22,17 @@
 <br>
 <!-- end heading -->
 
-
 just like you, i do open source things.
 
-at work i do backend PHP (7, OOP), some frontend, and iOS (objc).
+```json
+{
+    "name": "Vladimris Nordholm",
+    "nicknames": ["vladde", "bibbe"],
+    "languages": {
+        "php": "php 7, oop. has also worked with legacy projects",
+        "dlang": "love this language. like a better c++",
+        "gml": "bad scripting language for game maker: studio. love/hate relationship",
+        "html+css": "5+3"
+    }
+}
+```
