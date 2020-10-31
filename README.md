@@ -31,7 +31,7 @@ just like you, i do open source things.
     languages: {
         php: "php 7, oop. has also worked with legacy projects",
         dlang: "love this language. like a better c++",
-        gml: "bad scripting language for game maker: studio. love/hate relationship",
+        gml: "bad scripting language for game maker: studio. complicated relationship",
         htmlcss: "5+3"
     }
 }
