@@ -21,18 +21,3 @@
 <hr>
 <br>
 <!-- end heading -->
-
-just like you, i do open source things.
-
-```js
-{
-    name: "Vladimris Nordholm",
-    nicknames: ["vladde", "bibbe"],
-    languages: {
-        php: "php 7, oop. has also worked with legacy projects",
-        dlang: "love this language. like a better c++",
-        gml: "bad scripting language for game maker: studio. complicated relationship",
-        htmlcss: "5+3"
-    }
-}
-```
