@@ -17,7 +17,4 @@
 [![youtube](https://img.shields.io/badge/-vladde-ff6f21?logo=youtube&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UC2rTBbXG_NwMVgtnSM0ErgQ)
 
 </div>
-<br>
-<hr>
-<br>
 <!-- end heading -->
