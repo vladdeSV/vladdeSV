@@ -1,12 +1,17 @@
 <br>
 <div align="center">
 
-<a href="https://vladde.net/"><img src="https://public.vladde.net/icons/iconmonstr/globe.svg?v=1" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/vladdeSV"><img src="https://public.vladde.net/icons/iconmonstr/twitter.svg?v=2" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vladdesv/"><img src="https://public.vladde.net/icons/iconmonstr/instagram.svg?v=2" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC2rTBbXG_NwMVgtnSM0ErgQ"><img src="https://public.vladde.net/icons/iconmonstr/youtube.svg?v=2" width="50"></a>
+[![website][website icon]](https://vladde.net/)
+[![twitter][twitter icon]](https://twitter.com/vladdeSV)
+[![instagram][instagram icon]](https://www.instagram.com/vladdesv/)
+[![youtube][youtube icon]](https://www.youtube.com/channel/UC2rTBbXG_NwMVgtnSM0ErgQ) 
 
 <sub>icons provided by [iconmonstr <img src="https://public.vladde.net/icons/iconmonstr/iconmonstr.svg?v=1" width="10">](https://iconmonstr.com/)</sub>
 <!-- iconmonster does not require to link back the them, like Icons8 for example. However, they have solid (heh) icons and it would be a shame to not mention them -->
 
 </div>
+
+[website icon]: https://public.vladde.net/icons/iconmonstr/globe.svg?v=5
+[twitter icon]: https://public.vladde.net/icons/iconmonstr/twitter.svg?v=5
+[instagram icon]: https://public.vladde.net/icons/iconmonstr/instagram.svg?v=5
+[youtube icon]: https://public.vladde.net/icons/iconmonstr/youtube.svg?v=5
