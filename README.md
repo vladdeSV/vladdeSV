@@ -9,6 +9,4 @@
 <sub>icons provided by [iconmonstr <img src="https://public.vladde.net/icons/iconmonstr/iconmonstr.svg?v=1" width="10">](https://iconmonstr.com/)</sub>
 <!-- iconmonster does not require to link back the them, like Icons8 for example. However, they have solid (heh) icons and it would be a shame to not mention them -->
 
-<img src="./vladdeSV/easter-egg.svg">
-
 </div>
