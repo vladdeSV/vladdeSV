@@ -11,7 +11,7 @@
 
 </div>
 
-[website icon]: https://public.vladde.net/icons/iconmonstr/globe.svg?v=6
-[twitter icon]: https://public.vladde.net/icons/iconmonstr/twitter.svg?v=6
-[instagram icon]: https://public.vladde.net/icons/iconmonstr/instagram.svg?v=6
-[youtube icon]: https://public.vladde.net/icons/iconmonstr/youtube.svg?v=6
+[website icon]: https://public.vladde.net/icons/iconmonstr/globe.svg?v=8
+[twitter icon]: https://public.vladde.net/icons/iconmonstr/twitter.svg?v=8
+[instagram icon]: https://public.vladde.net/icons/iconmonstr/instagram.svg?v=8
+[youtube icon]: https://public.vladde.net/icons/iconmonstr/youtube.svg?v=8
