@@ -4,6 +4,6 @@
   <img src="/resource/me.svg" height="300px">
 </a>
 
-<samp><sub>have a good day</sub></samp>
+<samp><sub>"have a good day"</sub></samp>
 
 </div>
