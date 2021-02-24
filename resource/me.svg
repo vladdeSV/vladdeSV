@@ -44,9 +44,9 @@
                 }
             </style>
             <div class="container">
-               <svg fill="none" width="850" height="270" xmlns="http://www.w3.org/2000/svg"><g transform="translate(399.4,94.8)">
+               <svg fill="none" xmlns="http://www.w3.org/2000/svg"><g transform="translate(399.4,94.8)">
 
-<svg width="321" height="142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g id="torso" transform="matrix(1,0,0,1,-392.503,-81.9195)">
         <path d="M677.585,207.048C677.585,207.048 703.443,209.585 709.442,197.425C717.636,180.817 709.091,177.326 709.091,177.326C709.091,177.326 670.906,159.032 685.935,134.878C697.023,117.058 695.214,111.183 693.457,105.081C691.7,98.979 684.017,96.998 675.394,98.267C669.198,99.178 662.43,103.995 655.97,102.515C648.95,100.905 638.29,92.729 633.271,88.612C626.042,82.681 609.056,80.826 598.899,83.851C576.112,90.639 493.862,127.227 493.862,127.227L487.107,128.544C487.107,128.544 476.052,131.901 470.406,129.998C455.184,124.866 392.238,148.083 397.486,163.996C398.37,166.879 399.123,171.571 398.233,173.642C394.587,182.133 386.539,221.321 402.841,222.447C420.223,223.647 465.406,217.641 539.024,209.907C578.669,205.742 568.795,205.257 583.719,204.95C606.781,204.476 652.21,205.211 677.585,207.048Z" style="fill:rgb(246,185,133);stroke:black;stroke-width:1px;"/>
     </g>
