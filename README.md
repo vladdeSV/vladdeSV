@@ -4,6 +4,6 @@
   <img src="https://generator.vladde.me/?v=0">
 </a>
 
-<samp><sub>"have a good day"</sub></samp>
+<samp><sub>(image randomly generated with [vladdeSV/me-generator](https://github.com/vladdeSV/me-generator))</sub></samp>
 
 </div>
